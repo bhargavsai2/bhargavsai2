@@ -4,6 +4,8 @@
 🎓 Master's in Computer Science | Clemson University  
 💡 Passionate about Web Development, UI/UX, and Scalable Applications  
 
+![Profile Views](https://komarev.com/ghpvc/?username=bhargavsai2&label=Profile%20Views&color=blue&style=flat) 
+
 ---
 
 ## 📊 GitHub Stats & Metrics  
@@ -56,7 +58,8 @@ Designed a UI similar to ChatGPT, integrated with **GPT-3.5 API** using **Node.j
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bhargav-sai-gajula)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bhargav-sai-gajula)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/bhargavsai2)  
 
 ---
 
