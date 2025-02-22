@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Bhargav Sai Gajula  
 
 🚀 Software Engineer | Frontend & Full-Stack Developer  
@@ -9,9 +8,9 @@
 
 ## 📊 GitHub Stats & Metrics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargavsai554&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavsai554&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavsai554&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargavsai2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavsai2&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavsai2&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -35,7 +34,7 @@
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhargavsai554&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhargavsai2&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -57,8 +56,7 @@ Designed a UI similar to ChatGPT, integrated with **GPT-3.5 API** using **Node.j
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bhargavsai554)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/bhargavsai554)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bhargav-sai-gajula)  
 
 ---
 
