@@ -45,15 +45,12 @@
 
 🔹 **Chat with Site**  
 Developed a system for scraping and querying website content with **Next.js** and **Django**, integrated with **Ollama LLM API**.  
-🔗 [GitHub Repo](#)  
+🔗 [GitHub Repo](https://github.com/bhargavsai2/WebsiteChat)  
 
 🔹 **Air Crash Visualization**  
 Interactive visualization of 5,000+ air crash incidents using **D3.js** and **JavaScript**.  
-🔗 [GitHub Repo](#)  
+🔗 [GitHub Repo](https://github.com/bhargavsai2/Air_Crashes_Visualization)  
 
-🔹 **Chat Application using OpenAI API**  
-Designed a UI similar to ChatGPT, integrated with **GPT-3.5 API** using **Node.js & Express.js**.  
-🔗 [GitHub Repo](#)  
 
 ---
 
