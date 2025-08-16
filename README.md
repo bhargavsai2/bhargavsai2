@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhargav Sai Gajula  
 
-🚀 Software Engineer | Frontend & Full-Stack Developer  
+🚀 Software Engineer | Full-Stack Developer  
 🎓 Master's in Computer Science | Clemson University  
 💡 Passionate about Web Development, UI/UX, and Scalable Applications  
 
