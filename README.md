@@ -23,7 +23,7 @@
 - 🎨 HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI  
 
 ### **Backend**
-- ⚙️ Node.js, Express.js, PHP CodeIgniter  
+- ⚙️ Java, Node.js, Express.js, PHP CodeIgniter  
 - 🗄️ PostgreSQL, MySQL  
 
 ### **Tools & Platforms**
