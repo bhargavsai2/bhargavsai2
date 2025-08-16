@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Bhargav Sai Gajula  
 
 🚀 Software Engineer | Full-Stack Developer  
-🎓 Master's in Computer Science | Clemson University  
 💡 Passionate about Web Development, UI/UX, and Scalable Applications  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bhargavsai2&label=Profile%20Views&color=blue&style=flat) 
